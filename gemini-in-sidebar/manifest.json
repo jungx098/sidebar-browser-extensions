@@ -24,7 +24,8 @@
       "512": "src/icons/512x512.png"
     },
     "default_title": "Gemini in Sidebar",
-    "default_panel": "src/sidebar/panel.html"
+    "default_panel": "src/sidebar/panel.html",
+    "browser_style": false
   },
   "icons": {
     "16": "src/icons/16x16.png",
